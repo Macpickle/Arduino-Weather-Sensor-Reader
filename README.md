@@ -29,7 +29,7 @@ These components can be simply found online, though I used components only from 
 
 ### Extras/Comments
 
-I understand this is not optimum, but this is all I really had. Although that is the case, it still works completely fine.
+I understand this is not optimum, but this is all I really had. Although that is the case, it still works completely fine. I hope this was able to help anybody with whatever they use it for.
 Feel free to leave suggestions/comments on anything.
 
 \- Macpickle
